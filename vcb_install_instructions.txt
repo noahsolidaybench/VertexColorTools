@@ -1,0 +1,26 @@
+
+Thanks for downloading Vertex Color Bench v1.0, a tool for editing vertex colors, made by Noah Bench.
+nbench0218@gmail.com - noahbench.com
+
+Please find instructions for installing the tool below.
+
+
+First Time Setup:
+=================
+
+1. Copy the scripts and prefs folders onto your Maya version's script and prefs folders.
+
+    On Windows: C:\Users\~\Documents\maya\20XX-x64\
+	On Mac: ~/Library/Preferences/Autodesk/maya/
+	
+2. Open Maya.
+
+3. Run "import VCB" in a Python tab of the Script Editor.
+
+
+Creating A Shelf Button:
+========================
+
+After import, the tool will open.
+
+Under the Tool Options menu, choose Create Shelf Button to store a button to the currently active shelf.
